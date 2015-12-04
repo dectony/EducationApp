@@ -1,0 +1,17 @@
+c:\users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\bin\Debug\EducationApp.exe.config
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\bin\Debug\EducationApp.exe
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\bin\Debug\EducationApp.pdb
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\EducationApp.csprojResolveAssemblyReference.cache
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\MainWindow.baml
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\MainWindow.g.cs
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\App.g.cs
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\EducationApp_MarkupCompile.cache
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\EducationApp.g.resources
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\EducationApp.Properties.Resources.resources
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\EducationApp.csproj.GenerateResource.Cache
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\EducationApp.exe
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\obj\Debug\EducationApp.pdb
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\bin\Debug\EntityFramework.dll
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\bin\Debug\EntityFramework.xml
+C:\Users\anton.zasenka\documents\visual studio 2013\Projects\EducationApp\EducationApp\bin\Debug\EntityFramework.SqlServer.xml
